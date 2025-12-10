@@ -75,7 +75,7 @@ export default class XcloudApi {
           },
           browser: {
             browserName: 'edge',
-            browserVersion: '140.0.3485.66',
+            browserVersion: '110.0.0.0',
           },
         },
       });
